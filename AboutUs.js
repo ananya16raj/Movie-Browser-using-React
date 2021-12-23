@@ -11,7 +11,7 @@ const AboutView = () => {
             <div className = "col-lg-8 offset-lg-2 my-5">
               <p className ="lead">
                 Hellooooo everyone!!!! Welcome to my Website.
-                I'm developing new skills and this time I affirm to be consistent with my work.
+                I have tried to design a very simple website using React just as a beginner and I aspire to develope something fascinating soon.
               </p>
             </div>
           </div>
